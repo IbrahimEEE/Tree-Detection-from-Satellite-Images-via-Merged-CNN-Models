@@ -1,6 +1,6 @@
 <p align="center">
   <img src="images/modelarchitecture_1.jpg" alt="Model Architecture Part 1" width="70%">
-  <img src="images/modelarchitecture.jpg" alt="Model Architecture Part 2" width="70%">
+  <img src="images/modelarchitecture_2.jpg" alt="Model Architecture Part 2" width="70%">
 </p>
 
 # Tree Detection from Satellite Images via Merged CNN Models
