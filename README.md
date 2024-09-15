@@ -36,5 +36,3 @@ The architecture consists of a dual-backbone model that merges the features of M
 - The merged MobileNetV3 + ResNet101 model demonstrates significant improvements in detection accuracy and computational efficiency, achieving high mAP scores across different datasets.
 - The findings underscore the importance of advanced deep learning techniques in promoting ecological balance and forest conservation.
 
-## Citation
-If you find this work useful, please consider citing the thesis:
